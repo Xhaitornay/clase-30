@@ -1,2 +1,1 @@
-# clase-30
-la clase 30
+Actividad del alumno 3 - PRO - C30
